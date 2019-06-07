@@ -24,12 +24,12 @@ Click <a href= "https://www.linkedin.com/in/anita-martin-84bb78183/"> here <a/> 
 ### Quanititive Accomplishments
    - Working at DISH I oversaw just under one Million dollars of inventory. I had to track it, order it, ship it out mainly watch our shrink on it.
    - I was also in charge of overseeing about 70-90 technicians’ individual inventory. We had to replenish every week to make sure they did not run out of equipment for installs.
-   - We had about 90 vehicles in our fleet so I had to maintain the maintacnce on them.
+   - We had about 90 vehicles in our fleet so I had to maintain the maintacnce on them. From oil changes, brake changes, windshield replacements, etc..
 
 ### Qualitative Accomplishment
-   - Great communicator – Very   
-   - Organizer -   
-   - People person   
+   - Great communicator – I have a great communications skills through emails, phone etiquette, and face-to-face. Large groups usually more than 20 I start to panic a little. 
+   - Organizer - I am a great organizer, as I have eveything that I need to do in my calender. What I was taught was "Make time for it or you won't get to it."
+   - People person - I have a belief that we are our own individual person and that makes us unique. So I like to talk to people, even though I know I come across as shy or in my own zone, once I start to warm up to people I like to have conversations about everything.
     
 ### What do I bring to the table?
 <p>Warehouse Inventory process – knew the ends and outs of the process of inventory related tasks.
@@ -43,25 +43,25 @@ Excel was my friend – I had to work on a daily basis with excel building model
     
     
 ### Golden Circle
-  <p>  - Why?
-     -The main reason behind what I am on this path is to better my life and my family. To help those around me.
+ <p>
+  - Why?
+   -The main reason behind what I am on this path is to better my life and my family. To help those around me.
 
-    - How?
-      -Coding skills
-      -College Degree Bachelor’s Degree 
+   - How?
+     -Coding skills
+     -College Degree Bachelor’s Degree 
 
-    - What?
-      -Deep Diving Bootcamp
-      -Previous work skills
-      
-  </p>
+   -What?
+     -Deep Diving Bootcamp
+     -Previous work skills
+ </p>
 
     
 ### Elevator Pitch
-  <p>  - Name? What? Why? How? Ask?
-      -My name is Anita Martin I am currently a student with CNMStemuLUS learning about coding. What drove me to this decision is to better myself and my family. Learning coding will help me about today’s advancing technology. 
+ <p>
+  - Name? What? Why? How? Ask?
+    - My name is Anita Martin I am currently a student with CNMStemuLUS learning about coding. What drove me to this decision is to better myself and my family. Learning coding will help me about today’s advancing technology. 
     
-    - Edited Version
-    
-    
+  - Edited Version
+    - My name is Anita Martin, I am from the Dine Nation and currently a student in the JAVA+Android Bootcamp with CNMStemuLUS, learning about computer programming. I have a passion for helping people, more so helping my Dine people. I want to change the technology on the reservation to make things more modern for us, at the same time keeping our traditions alive. I want to bring my knowledge of what I learn and weave that into our society. Would you like to help change some lives?    
  </p>
