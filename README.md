@@ -45,19 +45,14 @@ Excel was my friend – I had to work on a daily basis with excel building model
     
     
 ### Golden Circle
- <p>
-  - Why?
+ - Why?
    -The main reason behind what I am on this path is to better my life and my family. To help those around me.
-
    - How?
      -Coding skills
      -College Degree Bachelor’s Degree 
-
    -What?
      -Deep Diving Bootcamp
      -Previous work skills
- </p>
-
     
 ### Elevator Pitch
  * Name? What? Why? How? Ask?
