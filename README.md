@@ -3,7 +3,7 @@
 <hr />
 ## My Links
 
-Click [R&eacute;sum&eacute;](resume.md) for more information.
+Click [R&eacute;sum&eacute;](Resume06042019.pdf) for more information.
 
 Click <a href= "https://www.linkedin.com/in/anita-martin-84bb78183/"> here <a/> for my LinkIn Page.
 
@@ -19,7 +19,8 @@ Click <a href= "https://www.linkedin.com/in/anita-martin-84bb78183/"> here <a/> 
       - Working at DISH I oversaw just under one Million dollars of inventory. I had to track it, order it, ship it out mainly watch our shrink on it.
       - I was also in charge of overseeing about 70-90 technicians’ individual inventory. We had to replenish every week to make sure they did not run out of equipment for installs.
       - We had about 90 vehicles in our fleet so I had to maintain the maintacnce on them.
-### Qualitative Accomplishments</strong></ul>
+
+### Qualitative Accomplishment
       - Great communicator – Very   
       - Organizer -   
       - People person   
@@ -31,7 +32,7 @@ Excel was my friend – I had to work on a daily basis with excel building model
 
     
 ### Whole Brain Accomplishment
-    <p>My passion product now is building small furniture out of pallets. The way this get incorporated with using my whole brain is being creative as to what I want to build. The other side is making sure that I construct it correctly. Measurements match up.</p>
+<p>My passion product now is building small furniture out of pallets. The way this get incorporated with using my whole brain is being creative as to what I want to build. The other side is making sure that I construct it correctly. Measurements match up.</p>
 
     
     
