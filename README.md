@@ -9,21 +9,27 @@ Click <a href= "https://www.linkedin.com/in/anita-martin-84bb78183/"> here <a/> 
 
 <hr />
 ## Weekly Reflections
+ - What did I learn this week?
+ - What I felt like an accomplishment?
+ - How have I grown from this expereince?
+ - How has my perception changed?
+ - Why do I love coding?
+  
   - Week One & 2
-    - I had started classes on May 20th, 2019 and its been exactly 13 days. My brain has never been so 
+    - I had started classes on May 20th, 2019 and its been exactly 13 days. My brain has never been so pumped up, overloaded, excited, and stressed out all at once. LOL The first week was pretty hectic learning and cramming all the tools we need to start a project on our own. I am understaning for the most part but I feel like I am not understanding enough. I try to do some extra readings and doing the exercises in the book but I get hung up on one problem and I end up spending too much time on it and I forget about everything else. 
   
 <hr />
 ## Pro Dev Activities
 
 ### Quanititive Accomplishments
-      - Working at DISH I oversaw just under one Million dollars of inventory. I had to track it, order it, ship it out mainly watch our shrink on it.
-      - I was also in charge of overseeing about 70-90 technicians’ individual inventory. We had to replenish every week to make sure they did not run out of equipment for installs.
-      - We had about 90 vehicles in our fleet so I had to maintain the maintacnce on them.
+   - Working at DISH I oversaw just under one Million dollars of inventory. I had to track it, order it, ship it out mainly watch our shrink on it.
+   - I was also in charge of overseeing about 70-90 technicians’ individual inventory. We had to replenish every week to make sure they did not run out of equipment for installs.
+   - We had about 90 vehicles in our fleet so I had to maintain the maintacnce on them.
 
 ### Qualitative Accomplishment
-      - Great communicator – Very   
-      - Organizer -   
-      - People person   
+   - Great communicator – Very   
+   - Organizer -   
+   - People person   
     
 ### What do I bring to the table?
 <p>Warehouse Inventory process – knew the ends and outs of the process of inventory related tasks.
@@ -37,7 +43,7 @@ Excel was my friend – I had to work on a daily basis with excel building model
     
     
 ### Golden Circle
-    - Why?
+  <p>  - Why?
      -The main reason behind what I am on this path is to better my life and my family. To help those around me.
 
     - How?
@@ -47,12 +53,15 @@ Excel was my friend – I had to work on a daily basis with excel building model
     - What?
       -Deep Diving Bootcamp
       -Previous work skills
+      
+  </p>
 
     
 ### Elevator Pitch
-    - Name? What? Why? How? Ask?
+  <p>  - Name? What? Why? How? Ask?
       -My name is Anita Martin I am currently a student with CNMStemuLUS learning about coding. What drove me to this decision is to better myself and my family. Learning coding will help me about today’s advancing technology. 
-
     
     - Edited Version
     
+    
+ </p>
