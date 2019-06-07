@@ -3,9 +3,11 @@
 <hr />
 ## My Links
 
-Click [R&eacute;sum&eacute;](Resume06042019.pdf) for more information.
+Click [R&eacute;sum&eacute;](Resume06042019.pdf) for work history.
 
 Click <a href= "https://www.linkedin.com/in/anita-martin-84bb78183/"> here <a/> for my LinkIn Page.
+
+Click [here](bio.md) to learn how I got here.
 
 <hr />
 ## Weekly Reflections
