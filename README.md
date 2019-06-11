@@ -3,7 +3,7 @@
 <hr />
 ## My Links
 
-Click [R&eacute;sum&eacute;](Resume06042019.pdf) for work history.
+Click [R&eacute;sum&eacute;](ResumeEdited06042019.pdf) for work history.
 
 Click <a href= "https://www.linkedin.com/in/anita-martin-84bb78183/"> here <a/> for my LinkIn Page.
 
