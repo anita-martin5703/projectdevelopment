@@ -23,6 +23,9 @@ Click [here](bio.md) to learn how I got here.
 <hr />
 ## Pro Dev Activities
 
+### Visual Speaks
+
+
 ### Quanititive Accomplishments
    - Working at DISH I oversaw just under one Million dollars of inventory. I had to track it, order it, ship it out mainly watch our shrink on it.
    - I was also in charge of overseeing about 70-90 technicians’ individual inventory. We had to replenish every week to make sure they did not run out of equipment for installs.
