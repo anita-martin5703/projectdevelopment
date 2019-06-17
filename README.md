@@ -27,12 +27,22 @@ Click [here](bio.md) to learn how I got here.
 <hr />
 ## Pro Dev Activities
 
+### Identity Chart
+
+| Identify Chart| Professional  | Personal     |
+| ------------- | ------------- | -------------|
+| <strong>Identity:</strong>     | Anita Martin  | Callisto-Painite|
+| <strong>Channels:</strong>     | LinkedIn, GitHub, Instagram, Twitter | Facebook, Snapchat |
+| <strong>Content:</strong>      |Work Experience, Developer, School, Accomplishment |Family Ties, Mean memes, Art/photography, HS Connections|
+
 ### Visual Speaks
 ![Visual Speaks](IdentityPic.jpg)
 <p>The first picture symbolizes hope and prayer and it best represents where I am at in this point of my life. Right now changing career paths stepping into something totally different is a very scary process. So I send my prayers to a higher power to help guide me through the next phase of my life. On top of that: daily studying, re-reading chapters, and extra research helps with the process of understanding everything. All I can say is that I "hope and pray" that this will be enough to finish off this bootcamp.</p>
 <p> The second picture show where I will be at in three years. I picked the glowing fireworks because I see myself glowing with a company that appreciates my work and skills. I want to be accomplishing something great.</p>
 
-
+### Who am I?
+ <p> I am a Java/ Android Developer taking and internship with the Deep Dive Coding Bootcamp( I am working with Hope Technologies)</p>
+ <p> I attended my first 1 Million Cups event and that was so great! Me and my career buddy Jeff Franklin made some awesome connections and we both motivated each other at the same time. It was a great event. I got 3 business cards #1 Sarah Mcord, she was selling some of her art work and she was a great person to talk too. #2 Deidre Grabke She overheard my converstions with Denelle about making some business cards for myself and she recommeded the place she got hers done. We chit-chatted for a while and I told her who I was and gave my line of " My name is Anita Martin I am a future Software Programmer and currently taking a Deep Dive Bootcamp" #3 David? did not get his last name. Funny story I was walking near the front and I tripped on the microphone and he ask if I was ok. "Way to go Anita!" I thought but that was my first connections so it made my first connection memorable. Overall the event was fantastic I also made another career buddy, Janal Sanchez from the Digital Media bootcamp. Making those connections for sure!</p>
 
 ### Quanititive Accomplishments
    - Working at DISH I oversaw just under one Million dollars of inventory. I had to track it, order it, ship it out mainly watch our shrink on it.
