@@ -3,7 +3,7 @@
 <hr />
 ## My Links
 
-Click [R&eacute;sum&eacute;](ResumeEdited06042019.pdf) for work history.
+Click [Updated R&eacute;sum&eacute; 06/14/2019](ResumeEdited06042019.pdf) for work history.
 
 Click <a href= "https://www.linkedin.com/in/anita-martin-84bb78183/"> here <a/> for my LinkIn Page.
 
@@ -17,13 +17,21 @@ Click [here](bio.md) to learn how I got here.
  - How has my perception changed?
  - Why do I love coding?
   
-  - Week One & 2
-    - I had started classes on May 20th, 2019 and its been exactly 13 days. My brain has never been so pumped up, overloaded, excited, and stressed out all at once. LOL The first week was pretty hectic learning and cramming all the tools we need to start a project on our own. I am for the most part understanding it, but I feel like its not enough. I try to do some extra readings and doing the exercises in the book but I get hung up on one problem and I end up spending too much time on it and I forget about everything else. I am learning but its a slow process for me. As I take some extra time on the readings, watching youTube clips, and lots of websearching, it is definatly helping me out. So far what I have accomplished is learning the basics of programming. Learning the shortcuts and proper structure is what I want to focus on, and of course learning the coding itself. I would like a tutor to help speed up this pcocess if I can. My preception changed this week after talking with Karen that this whole process will take time for ME. I just need to focus on some of the postitive as well. Before I was really putting myself down as I would see my other classmates catching on to things faster than I, so I felt a little out of place for a while. Why do I love coding? So far I love it because this is something I have wanted to do forever and I am actually to do this! Although its a love-hate relationship I am not going to give up anytime soon. 
+  - Week 3 & 4
+    <p>WHOA! is all I have to say for weeks 3 and 4. We had our very first exam and boy-oh-boy was that intense! At the beginnig of week 4 I was not prepared but after I met with my tutor Rebecca I felt a little accomplished. It was good to hear that the normal jitters and the brain overloading was normal. She was great and I am scheduling more sessions with her this week. On Wednesday the quiz was good. I was able to retake it and got a passing grade so that was great! The written part for Exam #1 came out better that I expected hahaha. I was proud of myself. The Exam #1 part #2 I struggled with. I went in early to get a head start on it. The first question was ok I was able to complete that. As I progressed along it was getting harder and harder. I had to take a few extra breaks. Again I feel like I should know this by now! and I start getting frustrated. I hoped to have accomplished more but I did not. After a day off from everything I know that I have to do more. I know that I need more practice in the coding part so my goal for the next week or so is to go through as much of the coding bat exercises as I can. Coding is still a love/hate relationship, at the end of this week it was more of a hate thing hahaha.
+    
+  
+  - Week 1 & 2
+    <p>I had started classes on May 20th, 2019 and its been exactly 13 days. My brain has never been so pumped up, overloaded, excited, and stressed out all at once. LOL The first week was pretty hectic learning and cramming all the tools we need to start a project on our own. I am for the most part understanding it, but I feel like its not enough. I try to do some extra readings and doing the exercises in the book but I get hung up on one problem and I end up spending too much time on it and I forget about everything else. I am learning but its a slow process for me. As I take some extra time on the readings, watching youTube clips, and lots of websearching, it is definatly helping me out. So far what I have accomplished is learning the basics of programming. Learning the shortcuts and proper structure is what I want to focus on, and of course learning the coding itself. I would like a tutor to help speed up this pcocess if I can. My preception changed this week after talking with Karen that this whole process will take time for ME. I just need to focus on some of the postitive as well. Before I was really putting myself down as I would see my other classmates catching on to things faster than I, so I felt a little out of place for a while. Why do I love coding? So far I love it because this is something I have wanted to do forever and I am actually to do this! Although its a love-hate relationship I am not going to give up anytime soon.</p>
   
 <hr />
 ## Pro Dev Activities
 
 ### Visual Speaks
+![Visual Speaks](IdentityPic.jpg)
+<p>The first picture symbolizes hope and prayer and it best represents where I am at in this point of my life. Right now changing career paths stepping into something totally different is a very scary process. So I send my prayers to a higher power to help guide me through the next phase of my life. On top of that: daily studying, re-reading chapters, and extra research helps with the process of understanding everything. All I can say is that I "hope and pray" that this will be enough to finish off this bootcamp.</p>
+<p> The second picture show where I will be at in three years. I picked the glowing fireworks because I see myself glowing with a company that appreciates my work and skills. I want to be accomplishing something great.</p>
+
 
 
 ### Quanititive Accomplishments
