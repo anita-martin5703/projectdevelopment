@@ -27,6 +27,9 @@ Click [here](bio.md) to learn how I got here.
 <hr />
 ## Pro Dev Activities
 
+### Forbidden Island
+ <p> This group session was a great session. I had fun learning about the game and sitting down with my teammates and getting to know them a little more was a great exercise. Alana has a natural ability to lead and she is great at it. She told us that if she gets bossy to let her know haha but she was great. Denelle also has a natural ability to lead so having two strong leadership role to follow for me is good. All together our communication is great. We jumped in the game right away since we had only 45mins so I set a timer and we got started right away. We went line by line according to the instructions and as we went along the way we each had a stragety and we voiced it and if someone had a better idea we collobrated it and we won. We finised right about 44mins and some seconds so we accomplised it!.</p>  
+
 ### Identity Chart
 
 | Identify Chart| Professional  | Personal     |
