@@ -17,6 +17,9 @@ Click [here](bio.md) to learn how I got here.
  - How has my perception changed?
  - Why do I love coding?
   
+  - Week 6 to Week 8
+  <p> The past three weeks have been a blur, from starting and finishing up our Android Projects to immediately starting our Capstones again (due in 2 week i might add), and in between all that we had to cram in all sorts of information to be prepared for quizzes, exam #2 and Pro Dev activities. I will honestly tell you that I never had this much stress in my life, hahaha. ALthough all good stress, not sure if that is a thing, but I would rather have that feeling because at the end of the day I am accomplishing something big for myself. My biggest accomplishment the past weeks is that I turn in my Android Project, on time. Although not as complete as I wanted but hey that gives me more practice to write more code in my spare time. I did not realize all the documentaion that went into it, now I know to give myself adquate time in the future so that I am not rushing around at the last minute. I believe that I have grown a lot the past weeks. I can say that I never thought that I would make it this far. Learning about time management, balancing personal and school life, and on top of that a whole crap load of coding! I have to say that my preception has changed a lot. Talking with a friends of mine I have to give myself more credit. I did not think that I could build a runnable, well sort of runnable app. LOL. I still love coding of course. I think in week 7th I lost traction for a bit. I was at a breaking point because I had some family matters pop up and on top of that I had to get ready for the Exam #2. I also was losing why I came to the bootcamp in the first place. It was a hard week for sure, but just having friends motivate me and classmates even just asking how I was doing made my day. All in all I made it through and time to finish off strong. After some rest of course! :)   **I love coding still**</p>
+  
   - Week 5
   <p> This past week was not a bad week. I am super happy because I am passing this bootcamp. Yay!! We started on the first few steps of our individual Android Projects. It is a little scary because we are doing this all on our own. However we do have each other and Nick & Chris to help out. This week I learned more about Android Studio, more specifically, Floating buttons and a Snackbar, and I was disappointed too there was no food involved! hahaha. The biggest thing that I accomplished was building my teambuilding skills. We made our wireframes with my group its was quite easy but we all had lunch and that was a gerat time to bond. (David, Alana, Denelle are in my group). What I have took away from all this is that each of us in our group have different qualities and we can use each other to lean on for support. I know more about my team both Alana and Denelle have great leadership skills. David is such a whiz with all this computer stuff. They are all amazing! :) Oh I love coding this week! I am working slowing on it but went through some Coding Bat exercises. Hope to do more this week!</p>
  
@@ -29,6 +32,13 @@ Click [here](bio.md) to learn how I got here.
   
 <hr />
 ## Pro Dev Activities
+
+### Identify Two Orgs
+ - Profit
+ - Non-Profit
+
+### Four Burners Activity
+
 
 ### Forbidden Island
  <p> This group session was a great session. I had fun learning about the game and sitting down with my teammates and getting to know them a little more was a great exercise. Alana has a natural ability to lead and she is great at it. She told us that if she gets bossy to let her know haha but she was great. Denelle also has a natural ability to lead so having two strong leadership role to follow for me is good. All together our communication is great. We jumped in the game right away since we had only 45mins so I set a timer and we got started right away. We went line by line according to the instructions and as we went along the way we each had a stragety and we voiced it and if someone had a better idea we collobrated it and we won. We finised right about 44mins and some seconds so we accomplised it!.</p>  
