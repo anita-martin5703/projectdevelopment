@@ -38,6 +38,10 @@ Click [here](bio.md) to learn how I got here.
  - Non-Profit
 
 ### Four Burners Activity
+Click [here](FourBurners.png) for my stove top cooking recipe.
+
+Click [here](FourBurners.pdf) to see in PDF format.
+
 
 
 ### Forbidden Island
