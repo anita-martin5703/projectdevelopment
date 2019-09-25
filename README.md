@@ -3,8 +3,6 @@
 <hr />
 ## My Links
 
-Click [Updated R&eacute;sum&eacute; 06/14/2019](ResumeEdited06042019.pdf) for work history.
-
 Click <a href= "https://www.linkedin.com/in/anita-martin-84bb78183/"> here <a/> for my LinkIn Page.
 
 Click [here](bio.md) to learn how I got here.
